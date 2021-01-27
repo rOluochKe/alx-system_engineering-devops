@@ -1,2 +1,2 @@
-0;276;0c#!/bin/bash
-ls -pam
+#!/bin/bash
+ls -ap --format=commas
